@@ -1,0 +1,12 @@
+{
+  "collectionName": "components_theme_color_theme_colors",
+  "info": {
+    "displayName": "ThemeColor"
+  },
+  "options": {},
+  "attributes": {
+    "themeColor": {
+      "type": "string"
+    }
+  }
+}
